@@ -1,7 +1,7 @@
 # plsql-window-functions-Byiringiro---Octave
 
-**Student:** [Your Name]  
-**Date:** 2025-09-19  
+**Student:**  Byiringiro octave  
+**ID:** 27497
 
 ## Problem Definition
 A retail company wants to analyze customer transactions to identify top products, track sales trends, and segment customers for targeted marketing.
